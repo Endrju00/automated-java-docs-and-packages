@@ -15,3 +15,7 @@ Aplikacja dla programistów, którzy potrzebują przeformatować lub filtrować 
 
 ### Status ostatniego builda
 ![example workflow](https://github.com/Endrju00/JSON-tools/actions/workflows/ci.yml/badge.svg)
+
+[![docs and package](https://github.com/Endrju00/automated-java-docs-and-packages/actions/workflows/docs.yml/badge.svg)](https://github.com/Endrju00/automated-java-docs-and-packages/actions/workflows/docs.yml)
+
+[![pages-build-deployment](https://github.com/Endrju00/automated-java-docs-and-packages/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Endrju00/automated-java-docs-and-packages/actions/workflows/pages/pages-build-deployment)
