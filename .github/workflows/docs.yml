@@ -24,6 +24,7 @@ jobs:
     - name: Copy jar to folder
       run: |
         rm -rf jars
+        mkdir jars
         cp -rf target/*.jar jars/
 
     - name: Build docs with Maven
